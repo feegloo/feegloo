@@ -1,4 +1,9 @@
-### I like everything which is beautiful and useful
+### I like everything that is simple, beautiful, and effective:
 
-#### - JavaScript, Node.js, Vue.js
-#### - macOS, iOS
+JavaScript
+
+Node.js
+
+Vue.js :heart:
+
+macOS, iOS
