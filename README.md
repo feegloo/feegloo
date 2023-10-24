@@ -1,4 +1,4 @@
-### I like everything that is simple, beautiful, and effective:
+### I like everything that is simple, beautiful, and effective
 
 JavaScript
 
