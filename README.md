@@ -1,6 +1,6 @@
 ### I like everything that is simple, beautiful, and effective
 
-JavaScript
+JavaScript, TypeScript
 
 Node.js
 
