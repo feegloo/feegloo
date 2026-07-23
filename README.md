@@ -6,4 +6,6 @@ Node.js
 
 Vue.js :heart:
 
+Python
+
 macOS, iOS
