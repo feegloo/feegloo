@@ -2,7 +2,7 @@
 
 ## Tech Lead | Software Architect | Full-stack TypeScript Engineer
 
-**15 years of commercial experience · 30+ projects · 8+ years of technical leadership**
+**15 years of commercial experience · 30+ projects on production · 8+ years of technical leadership**
 
 I build production-ready full-stack applications with TypeScript, Vue.js and Node.js. I work hands-on across the entire product - from architecture and user experience to clean code, cloud deployment and leading engineering teams.
 
