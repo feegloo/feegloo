@@ -4,7 +4,9 @@
 
 **15+ years of commercial experience · 30+ projects on production · 8+ years of technical leadership**
 
-I build production-ready full-stack applications with TypeScript, Vue.js and Node.js. I work hands-on across the entire product - from architecture and user experience to clean code, cloud deployment and leading engineering teams.
+I build production-ready full-stack applications, mostly with TypeScript, Vue.js/React.js, Node.js, and Python, with a particular interest in greenfield projects.
+
+I work hands-on across the entire product - from analyzing business requirements and translating them into actionable tickets, to architecture and user experience, clean and testable code, cloud deployment, and leading engineering teams.
 
 Recently, I have been focused on AI engineering and created [chatrag.app](https://chatrag.app) - a RAG chatbot for files - and [agent-email-router](https://github.com/feegloo/agent-email-router) - an AI agent for routing emails.
 
