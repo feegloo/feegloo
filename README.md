@@ -8,7 +8,7 @@ I work hands-on across the entire product - from analyzing business requirements
 
 Recently, I have been focused on AI engineering and created [chatrag.app](https://chatrag.app) - a RAG chatbot for files - and [agent-email-router](https://github.com/feegloo/agent-email-router) - an AI agent for routing emails.
 
-#### 💚 *I like everything that is simple, beautiful, and effective.*
+#### *I like everything that is simple, beautiful, and effective.* 💚
 
 ## Tech Stack 🛠️
 
