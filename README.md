@@ -14,7 +14,7 @@ Recently, I have been focused on AI engineering and created [chatrag.app](https:
 
 - **Languages:** `TypeScript` · `JavaScript` · `Python`
 - **Frontend:** `Vue.js` ❤️ · `React` · `Tailwind CSS` · `Radix UI`
-- **Backend:** `Node.js` · `Express.js` · `Koa.js` · `NestJS` · `PostgreSQL` · `REST` · `WebSocket` · `RabbitMQ`
+- **Backend:** `Node.js` · `Express.js` · `Koa.js` · `NestJS` · `PostgreSQL` · `REST` · `WebSocket` · `Supabase` · `RabbitMQ`
 - **AI Engineering:** `OpenAI` · `Ollama` · `RAG` · `LangChain` · `ChromaDB` · `Embeddings` · `MCP`
 - **Architecture:** `Monorepos` · `Microservices` · `Event-driven architecture` · `Real-time systems`
 - **Cloud & DevOps:** `Google Cloud Platform` · `AWS` · `Docker` · `GitHub Actions` · `Cloud Run`
