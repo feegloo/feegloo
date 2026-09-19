@@ -1,6 +1,6 @@
 ## Tech Lead | Software Architect | Full-stack Engineer
 
-<span style="color: #4CAF50;">**15+ years of commercial experience · 30+ projects on production · 8+ years of technical leadership**</span>
+### 15+ years of commercial experience · 30+ projects on production · 8+ years of technical leadership
 
 I build production-ready full-stack applications, mostly with TypeScript, Vue.js/React.js, Node.js, and Python, with a particular interest in greenfield projects.
 
