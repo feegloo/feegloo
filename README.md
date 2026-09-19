@@ -1,4 +1,4 @@
-## Tech Lead | Software Architect | Full-stack TypeScript Engineer
+## Tech Lead | Software Architect | Full-stack Engineer
 
 **15+ years of commercial experience · 30+ projects on production · 8+ years of technical leadership**
 
