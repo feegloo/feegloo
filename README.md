@@ -12,7 +12,7 @@ Recently, I have been focused on **AI Engineering & Automation**, building my ow
 
 **[AI Email Router](https://email-router-kazjmyztga-ew.a.run.app/)** classifies emails and forwards them to the right department using editable routing rules, tool calling and SMTP integration. I built a [Next.js, React and TypeScript app](https://github.com/feegloo/agent-email-router-next) with a live routing visualization, alongside the original [Python implementation using Pydantic AI](https://github.com/feegloo/agent-email-router), both powered by models served through Ollama.
 
-**[ChatRAG](https://chatrag.app/)** answers questions about uploaded files using RAG, with document summaries and suggested prompts. I built the Python engine with FastAPI, LangChain, ChromaDB and the OpenAI API, with Vue.js, Node.js, PostgreSQL and GCP supporting the wider application ([GitHub](https://github.com/feegloo/chatrag-app)).
+**[ChatRAG](https://chatrag.app/)** answers questions about uploaded files using RAG, with document summaries and suggested prompts. I built the Python engine with FastAPI, LangChain, ChromaDB and the OpenAI API, with Vue.js, Node.js, PostgreSQL and GCP. ([GitHub](https://github.com/feegloo/chatrag-app)).
 
 #### *I like everything that is simple, beautiful, and effective.*
 
